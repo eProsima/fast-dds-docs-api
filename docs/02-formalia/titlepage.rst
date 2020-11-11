@@ -1,7 +1,7 @@
 .. raw:: html
 
   <h1>
-    eProsima Fast DDS Documentation
+    eProsima Fast DDS API Reference
   </h1>
 
 .. image:: /01-figures/logo.png
